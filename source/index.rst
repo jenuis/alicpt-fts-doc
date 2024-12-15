@@ -5,16 +5,22 @@
 
 Welcome to Ali-CPT FTS Documentation!
 ==========================================
+The Ali CMB Polarization Telescope (Ali-CPT) is built to measure the CMB B-mode polarization in the northern hemisphere. The Fourier Transform Spectrometer (FTS) is the sub-system of the Ali-CPT to calibrate its measurements.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+
+   introduction
+   calibration
+   file
+   contact
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
