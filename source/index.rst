@@ -13,6 +13,7 @@ The Ali CMB Polarization Telescope (Ali-CPT) is built to measure the CMB B-mode 
 
    introduction
    calibration
+   inlab
    file
    contact
 
