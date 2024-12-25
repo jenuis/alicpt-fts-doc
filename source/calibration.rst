@@ -24,7 +24,7 @@ The calibration file holds a list of job setups. Each line is treated as a job. 
 
 .. code-block:: bash
 
-    Date Time, Duration, Displacement, Angle
+    Date Time, Duration [s], Displacement [mm], Angle [degree]
 
 Below is an example of the configuration file.
 
@@ -69,6 +69,7 @@ The following procedures are used to perform a single calibration manually.
 - Switch on ``On Site Switch``.
 - Change mirror positons by setting ``Displacement`` and ``Angle``.
 - Select ``Trigger Source`` if you want the job is fired by the **second pulse generator**.
+- Fill ``Data File Suffix`` and ``Comments`` on needs.
 - Click ``Start``.
 
 ------------------------
@@ -84,6 +85,7 @@ The procedures are generally similar to :ref:`Manual Calibration` but with the `
 - Switch on ``On Site Switch``.
 - Select the ``Calibration Configuration File``.
 - Select ``Trigger Source``.
+- Fill ``Data File Suffix`` and ``Comments`` on needs.
 - Click ``Start``.
 
 .. note::
